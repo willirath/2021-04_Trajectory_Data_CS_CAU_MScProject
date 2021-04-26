@@ -20,4 +20,4 @@ Pick one of the following topics:
 
 - _**Visualize:**_ Build an app for interactive visualization of the data.
 - _**Optimize:**_ Structure the data for the fastest possible lookup based on region and trajectories. (May also be part of one of the other topics.)
-- -**Analyze:**_ Use machine learning to identify and quantify emerging pathways.
+- _**Analyze:**_ Use machine learning to identify and quantify emerging pathways.
