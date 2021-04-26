@@ -1,5 +1,7 @@
 # Trajectory Data
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/willirath/2021-04_Trajectory_Data_CS_CAU_MScProject/main)
+
 ## Mode of interaction
 
 - Work in a Github repository. Create a new one or fork this one.
