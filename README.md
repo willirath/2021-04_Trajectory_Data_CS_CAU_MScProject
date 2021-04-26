@@ -1,6 +1,6 @@
 # Trajectory Data
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/willirath/2021-04_Trajectory_Data_CS_CAU_MScProject/main)
+Launch interactive session: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/willirath/2021-04_Trajectory_Data_CS_CAU_MScProject/main)
 
 ## Mode of interaction
 
