@@ -6,7 +6,7 @@
 
 - Use the Github project board for all project management (milestones, deadlines, etc.) [Docs are here.](https://docs.github.com/en/github/managing-your-work-on-github/about-project-boards)
 
-- Use Github Issues and Pull Requests for interactions with @willirath and @calotra and among your group.
+- Use Github Issues and Pull Requests for interactions with [@willirath](https://github.com/willirath) and [@calotra](https://github.com/calotra) and within your group.
 
 ## Data
 
