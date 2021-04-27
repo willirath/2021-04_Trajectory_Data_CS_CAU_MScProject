@@ -1,6 +1,6 @@
 # Trajectory Data
 
-Launch interactive session: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/willirath/2021-04_Trajectory_Data_CS_CAU_MScProject/main)
+Launch interactive session ([docs about the platform are here](https://mybinder.readthedocs.io/)): [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/willirath/2021-04_Trajectory_Data_CS_CAU_MScProject/main)
 
 [Slides with a brief overview are here](https://docs.google.com/presentation/d/e/2PACX-1vT3s9--icsZJGN7k99Qq7vVgVvLfM-95P866i1ZOX902X20Os2q-k_Hcw3qHPDIye0wTv1uFa6yYb2z/pub?start=false&loop=false&delayms=60000&slide=id.p)
 
